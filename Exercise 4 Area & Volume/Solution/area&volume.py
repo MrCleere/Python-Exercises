@@ -23,3 +23,5 @@ assert volume(5, 8, 10) == 400
 assert surface_area(10, 10, 10) == 600
 assert surface_area(9999, 0, 9999) == 199960002
 assert surface_area(5, 8, 10) == 340
+
+print("All tests passed!")
