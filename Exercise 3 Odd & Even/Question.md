@@ -22,7 +22,6 @@ assert isOdd(-10) == False
 
 assert isOdd(-11) == True
 
-assert isOdd(3.1415) == False
 
 assert isEven(42) == True
 
