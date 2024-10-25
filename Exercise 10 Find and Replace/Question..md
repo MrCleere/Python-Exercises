@@ -19,6 +19,5 @@ assert findAndReplace('foxfox', 'fox', 'dog') == 'dogdog'
 
 assert findAndReplace('The Fox and fox.', 'fox', 'dog') == 'The Fox and dog.'
 
-Try to write a solution based on the information in this description. If you still have trouble solving this exercise, read the Solution Design and Special Cases and Gotchas sections for additional hints.
 
-Prerequisite concepts: slices, indexes, len(), augmented assignment operator
+
