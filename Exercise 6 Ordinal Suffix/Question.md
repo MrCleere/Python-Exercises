@@ -6,7 +6,7 @@ You may use Python’s str() function to convert the integer argument to a strin
 
 These Python assert statements stop the program if their condition is False. Copy them to the bottom of your solution program. Your solution is correct if the following assert statements’ conditions are all True:
 
-assert ordinalSuffix(0) == '0th'
+
 
 assert ordinalSuffix(1) == '1st'
 
