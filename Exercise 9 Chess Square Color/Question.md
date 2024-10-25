@@ -26,22 +26,5 @@ Example Template:
 
 Try to first write a solution from scratch. But if you have difficulty, you can use the following partial program as a starting place. 
 
-def getChessSquareColor(column, row):     
 
-    if column ____ or ____ > 8 or ____ < 1 or row ____:
 
-        return ''
-
- 
-
-    # If the even/oddness of the column and row match, return 'white':
-
-    if ____ % 2 == row % ____:
-
-        return 'white'
-
-    # If they don't match, then return 'black':
-
-    else:
-
-        return 'black'
