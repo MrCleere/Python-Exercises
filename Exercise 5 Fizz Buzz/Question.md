@@ -1,6 +1,6 @@
 Fizz buzz is a word game you can implement as a simple program. 
 
-It became famous as a screening question in coding interviews to quickly determine if candidates had any programming ability whatsoever, so being able to solve it quickly leads to a good first impression.
+It became famous as a screening question in coding interviews to quickly determine if candidates had any programming ability whatsoever.
 
 Write a fizzBuzz() function with a single integer parameter named upTo. 
 
